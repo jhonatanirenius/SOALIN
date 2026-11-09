@@ -1,0 +1,6 @@
+{
+  "name": "SOALIN — Bank Soal & Tryout Indonesia",
+  "description": "Platform belajar dan latihan soal terlengkap untuk pelajar, mahasiswa, serta peserta seleksi Kedinasan, TNI, Polri, CPNS, dan ujian masuk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
